@@ -1,0 +1,8 @@
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS part 2\HomeworkArrays\2.CompareArrays\bin\Debug\2.CompareArrays.exe.config
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS part 2\HomeworkArrays\2.CompareArrays\bin\Debug\2.CompareArrays.exe
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS part 2\HomeworkArrays\2.CompareArrays\bin\Debug\2.CompareArrays.pdb
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS part 2\HomeworkArrays\2.CompareArrays\obj\Debug\2.CompareArrays.exe
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS part 2\HomeworkArrays\2.CompareArrays\obj\Debug\2.CompareArrays.pdb
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\2.CompareArrays\bin\Debug\2.CompareArrays.exe.config
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\2.CompareArrays\obj\Debug\2.CompareArrays.exe
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\2.CompareArrays\obj\Debug\2.CompareArrays.pdb
