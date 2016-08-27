@@ -1,0 +1,5 @@
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\6.MaximalKSum\bin\Debug\6.MaximalKSum.exe.config
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\6.MaximalKSum\bin\Debug\6.MaximalKSum.exe
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\6.MaximalKSum\bin\Debug\6.MaximalKSum.pdb
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\6.MaximalKSum\obj\Debug\6.MaximalKSum.exe
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\6.MaximalKSum\obj\Debug\6.MaximalKSum.pdb

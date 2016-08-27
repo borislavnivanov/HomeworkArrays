@@ -10,3 +10,6 @@ C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\H
 C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\HomeworkArrays1\1.AllocateArray\bin\Debug\1.AllocateArray.exe.config
 C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\HomeworkArrays1\1.AllocateArray\obj\Debug\1.AllocateArray.exe
 C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\HomeworkArrays1\1.AllocateArray\obj\Debug\1.AllocateArray.pdb
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\1.AllocateArray\bin\Debug\1.AllocateArray.exe
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\1.AllocateArray\bin\Debug\1.AllocateArray.pdb
+C:\Users\boris\Google Диск\Codding\Homework Telerik\2015 session\CS-part-2\HomeworkArrays\1.AllocateArray\obj\Debug\1.AllocateArray.csprojResolveAssemblyReference.cache
